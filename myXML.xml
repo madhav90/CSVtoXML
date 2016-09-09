@@ -1,0 +1,28 @@
+<PolicySynchronizationProcess>
+<PolicySynchronization>
+    <Client_s_Choice>2y</Client_s_Choice>
+    <Unit>sd6</Unit>
+    <FSC>smith</FSC>
+    <Phone1>3456785454</Phone1>
+    <Phone2>6666666666</Phone2>
+    <Email>a@a.com</Email>
+</PolicySynchronization>
+<PolicySynchronization>
+    <Client_s_Choice>2y</Client_s_Choice>
+    <Unit>sd5</Unit>
+    <FSC>john</FSC>
+    <Phone1>6554444444</Phone1>
+    <Email>b@b.com</Email>
+</PolicySynchronization>
+<PolicySynchronization>
+    <Client_s_Choice>2y</Client_s_Choice>
+    <Unit>s35</Unit>
+    <FSC>jakson</FSC>
+    <Phone1>4444444444</Phone1>
+</PolicySynchronization>
+<PolicySynchronization>
+    <Client_s_Choice>2y</Client_s_Choice>
+    <Unit>sd7</Unit>
+    <FSC>obama</FSC>
+</PolicySynchronization>
+</PolicySynchronizationProcess>
